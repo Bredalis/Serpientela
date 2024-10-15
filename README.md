@@ -1,4 +1,9 @@
 # Serpientela 🐍
+<a href="https://www.python.org" target="_blank">
+  <img src="https://img.shields.io/badge/Python-52BE80">
+</a>
+
+<br><br>
 
 <img src="https://i.pinimg.com/236x/73/49/99/7349997a4d07fbb97180c9a526fb88ff.jpg">
 
@@ -8,15 +13,15 @@ una sintaxis intuitiva y accesible, lo que facilita la comprensión y el aprendi
 
 ## Tabla de Contenidos 
 
-1. [Introducción](#introducción)
-2. [Características](#características)
-3. [Instalación](#instalación)
-4. [Configuración del estilo de Serpientela](#configuracion-del-estilo)
-5. [Uso](#uso)
-6. [Ejemplos](#ejemplos)
-7. [Referencia de Sintaxis](#referencia-de-sintaxis)
-8. [Contribuciones](#contribuciones)
-9. [Licencia](#licencia)
+1. Introducción
+2. Características
+3. Instalación
+4. Configuración del estilo de Serpientela
+5. Uso
+6. Ejemplos
+7. Referencia de Sintaxis
+8. Contribuciones
+9. Licencia
 
 ## Introducción 🌟
 
@@ -192,18 +197,23 @@ Si deseas contribuir a Serpientela, por favor sigue estos pasos:
 siquiera saben algo de inglés, para que sea un poco más fácil su curva de aprendizaje, ya que Serpientela necesita algunos 
 arreglos para sacar su máximo potencial y ayudar a los demás 😁**
 
+<br>
+
 ## Licencia 📜
 
 Este proyecto está licenciado bajo la Licencia 📜 <a href="https://github.com/Bredalis/Serpientela/blob/master/LICENSE" target="_blank">MIT License</a>.
 
+<br>
 
-## <img src="https://avatars.githubusercontent.com/u/111624948?s=400&u=cd081f79392220d8cd2a22f2a8d5d3b18814350a&v=4" width="50" height="50"> Hola, soy Bredalis Guerrero!
+## <img src="https://avatars.githubusercontent.com/u/111624948?s=400&u=cd081f79392220d8cd2a22f2a8d5d3b18814350a&v=4" width="50" height="50"> <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFFFFF&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hola,+soy;Bredalis+Gautreaux!" width="auto" height="35"/>
 [![Github](https://img.shields.io/github/followers/Bredalis?label=Follow&style=social)](https://github.com/Bredalis)
 ![GitHub Followers](https://img.shields.io/github/stars/bredalis?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bredalis_P?style=social)](https://twitter.com/bredalis_P)
+<a href="https://www.linkedin.com/in/bredalis-gautreaux/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
+</a>
 
-¡Hola! Mi nombre es Bredalis y actualmente estoy aprendiendo cosas como Linux y Docker 😄
-Me gusta mucho la programacion y la IA 😁
+😊 Soy una programadora con 3 años en este sector, me encanta crear y aprender constantemente. ¡Amo lo que hago! #nlp #ia 😊
 
 ## Mira mi perfil de GitHub:
 [![Web](https://img.shields.io/badge/GitHub-Bredalis-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/bredalis)
+
